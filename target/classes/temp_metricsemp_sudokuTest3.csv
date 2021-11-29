@@ -1,0 +1,2 @@
+dpll_pure_literal_prop,t_positive_literals,n_already_filled,n_values_in_first_row,dpll_recursion,source_identifier,dpll_unit_prop,t_literal_len,dpll_assignments,t_unit_clauses,t_clauses_len,t_negative_literals,t_cnf_len,run_time_in_ms
+302,2938,22,1,383,src/main/scala/temp_sudokuTest3.txt,289,26266,196,22,26266,23328,12010,519
